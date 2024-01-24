@@ -1,4 +1,4 @@
-# SocialMediaX
+# GonzaloBook
 
 Welcome to GonzaloBook – A Django-based Social Media Platform!
 
